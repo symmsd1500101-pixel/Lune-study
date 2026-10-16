@@ -1,0 +1,13 @@
+{
+  "name": "lune study - 勉強管理",
+  "short_name": "lune study",
+  "description": "儚い韓国風の毎日使える勉強管理アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf8fa",
+  "theme_color": "#f1e8f0",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
